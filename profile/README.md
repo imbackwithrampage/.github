@@ -3,7 +3,7 @@
 ![Profile Picture](https://github.com/imbackwithrampage.png?size=200)
 
 ## About Me
-I'm a versatile developer from Nora Penthouse, Tamilnadu, India, passionate about technology and innovation. I enjoy working on diverse projects that challenge me to learn and grow. As I believe, "If you want to know the value of something, ask someone who craves it!" This philosophy drives my approach to problem-solving and development.
+I'm a versatile developer from Nora Penthouse, Tamilnadu, India, passionate about technology and innovation. I enjoy working on diverse projects that challenge me to learn and grow. As I believe, "If you want to know the value of something, ask someone who craves for it!" This philosophy drives my approach to problem-solving and development. Serial entrepreneur and visionary technologist, founder of NoraPH, BlackHole, WormHole, TorHole, and DarkHole. Awarded for innovation with the Hindustan Innovation Contest win, top 10 in a NASA program, and top 3 in a Google Cloud competition. Interned at PSG College of Technology, developing AI/ML for Parkinson’s detection and RPA for humanoid robotics. At Neuro Kinetics, I’m pioneering brain-computer interfaces, enabling mind-driven control of devices—like navigating a futuristic bike with a thought—redefining human-machine interaction with sci-fi-inspired innovation. Passionate about harnessing neural technology to transcend human limitations and drive a transformative future.
 
 ## Skills
 - Python
