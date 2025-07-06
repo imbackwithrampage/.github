@@ -8,8 +8,14 @@ I'm a versatile developer from Nora Penthouse, Tamilnadu, India, passionate abou
 ## Skills
 - Python
 - Kotlin
+- Java
+- AiML and DS
+- DL, Neural Networks and Neuro Genetics
+- Robotic Process Automation
+- Dart
+- Fullstack 
 - TypeScript
-- C++
+- C++ and C
 
 ## Projects
 Here are some of my notable projects:
